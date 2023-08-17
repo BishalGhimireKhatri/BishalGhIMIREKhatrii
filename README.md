@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BISHAL GHI IRE KHATRI</h1>
+<h1 align="center">Hi 👋, I'm BISHAL GHIMIRE KHATRI</h1>
 <h3 align="center">I'm a devoted enthusiast of programming and technology, driven by a curiosity to solve intricate puzzles and embrace the latest innovations. My passion lies in crafting elegant code and leveraging cutting-edge advancements to create impactful solutions that shape our digital landscape.</h3>
 
 <img align="right" alt="coding" width="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
